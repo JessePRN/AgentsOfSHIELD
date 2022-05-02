@@ -1,4 +1,4 @@
-Did Covid force a migration from urban counties to rural counties in Georgia?
+##Did Covid force a migration from urban counties to rural counties in Georgia?
 
 Project Overview
 
