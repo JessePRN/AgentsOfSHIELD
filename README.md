@@ -13,7 +13,7 @@ Our group used two sets of census data (csvs) from the US Census which are in th
 
 The graphs and tables are in plots_tables folder within the Census Folder
 
-The heatmaps are in Heatmap folder within the Census Folder
+The heatmaps are in Census/Heatmap/ and its code can be found in Census/Heatmap/GeorgiaCountyHeatmap.ipynb
 
 The presentation is Census/GAPopTrends.pptx
 
