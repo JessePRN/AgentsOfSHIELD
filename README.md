@@ -7,16 +7,15 @@ Covid-19 has changed the world in nearly every way. The lockdowns and the cease 
 ## Project Structure
 
 
-The final code for this project is found in :
+The final code for this project is found in Census/Population_Trends_Georgia.ipynb
 
-Our group used two sets of census data from the US Census which are in the Census Folder.
+Our group used two sets of census data (csvs) from the US Census which are in the Census Folder
 
-The graphs and tables are in plots_tables folder within the Census Folder.
+The graphs and tables are in plots_tables folder within the Census Folder
 
-The heatmap are in Heatmap folder within the Census Folder
+The heatmaps are in Heatmap folder within the Census Folder
 
-The presentation is found in: 
-
+The presentation is Census/GAPopTrends.pptx
 
 ## Project Contributors
 
@@ -79,4 +78,6 @@ Yi Huang
 •	The box and whiskers plot for the population change shows that there is no statistical difference between the years pre and post covid. 
 
 •	The % change box and whiskers plot also shows that there is no statistical difference between the years pre and post covid. 
+
+• When sampling the population growth rate for rural counties and comparing it to the average growth rate, our p-value continuously exceeded the .05 cutoff established. We are rejecting our alternate hypothesis (rural counties' growth rate exceeds the average) and accepting the null hypothesis.
 
