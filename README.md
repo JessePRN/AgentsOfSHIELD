@@ -75,9 +75,9 @@ Yi Huang
 ## Conclusions:
 
 
-•	The box and whiskers plot for the population change shows that there is no statistical difference between the years pre and post covid. 
+•	The box and whiskers plot for the population change shows that there is no significant difference between the years pre and post covid. 
 
-•	The % change box and whiskers plot also shows that there is no statistical difference between the years pre and post covid. 
+•	The % change box and whiskers plot also shows that there is no significant difference between the years pre and post covid. 
 
 • When sampling the population growth rate for rural counties and comparing it to the average growth rate, our p-value continuously exceeded the .05 cutoff established. We are rejecting our alternate hypothesis (rural counties' growth rate exceeds the average) and accepting the null hypothesis.
 
